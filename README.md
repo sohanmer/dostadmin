@@ -12,7 +12,7 @@
     ```sh
     git clone https://github.com/DostEducation/dostadmin.git
     ```
-2. Switch to project folder and setup the vertual environment
+2. Switch to project folder and setup the virtual environment
     ```sh
     cd dostadmin
     python -m venv venv
